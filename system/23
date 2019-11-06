@@ -1,0 +1,4 @@
+Graphical: adduser <username>
+enter password and fill out personal information.
+
+SSH: ssh <hostname>@<ip> Then enter password
